@@ -2,3 +2,8 @@ WSMTD.zip contains all the needed file for the analysis of WS-MTD simulations.
 unzip the file.
 go to WSMTD/output folder.
 open tutorial_wsmtd_5 file.
+
+TASS.zip contains all the needed file for the analysis of TASS simulations.
+unzip the file.
+go to TASS/output folder.
+open tutorial_TASS file.
